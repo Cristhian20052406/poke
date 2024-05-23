@@ -1,0 +1,84 @@
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+.entrenador {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1.75px solid #ccc;
+    border-radius: 2px;
+
+}
+.entrenador h2 {
+    margin: 0;
+}
+.pokemon {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+.pokemon img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    
+}
+.pokemon.planta {
+    background-color: #a4c639;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+.pokemon.fuego {
+    background-color: #f08030;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+.pokemon.electrico {
+    background-color: #f8d030;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+.pokemon.agua {
+    background-color: #2c5dc5;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+.pokemon.agua {
+    background-color: #2c5dc5;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+
+.pokemon.normal {
+    background-color: #a8a878;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+.pokemon.psíquico{
+    background-color: #c93e3e;
+    border: 2px solid black;
+    border-radius: 4px;
+
+}
+
+.pokemon.roca{
+    background-color: #5e4242;
+    border: 2px solid black;
+    border-radius: 4px;
+
+}
+
+#titulo{
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.poke{
+    width: 20%;
+}

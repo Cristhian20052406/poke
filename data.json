@@ -1,0 +1,122 @@
+[
+    {
+        "entrenador": "Droxon",
+        "pokemons": [
+            {
+                "nombre": "Vinnasor",
+                "tipo": "planta",
+                "foto": "imagenes/vinnasor.png"
+            },
+            {
+                "nombre": "Eevee",
+                "tipo": "normal",
+                "foto": "imagenes/eevee.png"
+            },
+            {
+                "nombre": "Blastoise",
+                "tipo": "agua",
+                "foto": "imagenes/blastoise.png"
+            },
+            {
+                "nombre": "Arcanine",
+                "tipo": "fuego",
+                "foto": "imagenes/arcanine.png"
+            },
+            {
+                "nombre": "Alakazam",
+                "tipo": "psíquico",
+                "foto": "imagenes/alakazam.png"
+            }
+        ]
+    },
+    {
+        "entrenador": "Ariam",
+        "pokemons": [
+            {
+                "nombre": "Charizard",
+                "tipo": "fuego",
+                "foto": "imagenes/charizard.png"
+            },
+            {
+                "nombre": "Pikachu",
+                "tipo": "electrico",
+                "foto": "imagenes/pikachu.png"
+            },
+            {
+                "nombre": "Bulbasaur",
+                "tipo": "planta",
+                "foto": "imagenes/bulbasaur.png"
+            },
+            {
+                "nombre": "Squirtle",
+                "tipo": "agua",
+                "foto": "imagenes/squirtle.png"
+            },
+            {
+                "nombre": "Snorlax",
+                "tipo": "normal",
+                "foto": "imagenes/snorlax.png"
+            }
+        ]
+    },
+    {
+        "entrenador": "Miguel",
+        "pokemons": [
+            {
+                "nombre": "Starmie",
+                "tipo": "agua",
+                "foto": "imagenes/starmie.png"
+            },
+            {
+                "nombre": "Vaporeon",
+                "tipo": "agua",
+                "foto": "imagenes/vaporeon.png"
+            },
+            {
+                "nombre": "Golduck",
+                "tipo": "agua",
+                "foto": "imagenes/golduck.png"
+            },
+            {
+                "nombre": "Lapras",
+                "tipo": "agua",
+                "foto": "imagenes/lapras.png"
+            },
+            {
+                "nombre": "Gyarados",
+                "tipo": "agua",
+                "foto": "imagenes/gyarados.png"
+            }
+        ]
+    },
+    {
+        "entrenador": "Marcial",
+        "pokemons": [
+            {
+                "nombre": "Onix",
+                "tipo": "roca",
+                "foto": "imagenes/onix.png"
+            },
+            {
+                "nombre": "Geodude",
+                "tipo": "roca",
+                "foto": "imagenes/geodude.png"
+            },
+            {
+                "nombre": "Graveler",
+                "tipo": "roca",
+                "foto": "imagenes/graveler.png"
+            },
+            {
+                "nombre": "Golem",
+                "tipo": "roca",
+                "foto": "imagenes/golem.png"
+            },
+            {
+                "nombre": "Vulpix",
+                "tipo": "fuego",
+                "foto": "imagenes/vulpix.png"
+            }
+        ]
+    }
+]
